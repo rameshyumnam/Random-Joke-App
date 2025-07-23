@@ -29,7 +29,7 @@ const App = () => {
     <div className='bg-container'>
       <h1>Random Jokes Page</h1>
       <div className="image">
-        <img src="/public/joke emoji.png" alt="" />
+        <img src="laughingemoji.png" alt="image" />
       </div>
 
       {isLoading ? (
